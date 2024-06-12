@@ -1,0 +1,148 @@
+@media (max-width: 768px) {
+  #root {
+    padding: 0.3rem;
+  }
+
+  ul {
+    padding-inline-start: 0px;
+  }
+  .task__modal {
+    top: 17%;
+    font-size: 25px;
+    width: auto;
+  }
+
+  .btn {
+    padding: 7px;
+  }
+
+  .btn2 {
+    padding: 2px 6px;
+    font-size: 18px;
+  }
+
+  .task-imp-modal {
+    font-size: 14px;
+    height: 35px;
+  }
+
+  .task__title {
+    padding: 7px;
+  }
+
+  .task-btn-status {
+    min-width: 50px;
+  }
+
+  .input__select {
+    font-size: 25px;
+  }
+
+  .task__index {
+    display: none;
+  }
+
+  .add-input {
+    width: 250px;
+  }
+
+  h1 {
+    display: block;
+    font-size: 3em;
+    margin-block-start: 0.27em;
+    margin-block-end: 0.27em;
+  }
+
+  /* #root {
+    padding: 0.3rem;
+  }
+
+  .task-btn-status {
+    padding: 7px;
+    min-width: 80px;
+    font-size: 14px;
+    font-weight: 700;
+  }
+
+  .task__title {
+    margin-right: 0;
+    padding: 3px;
+    min-width: 120px;
+  }
+
+  .input__select {
+    padding: 3px;
+    font-size: 21px;
+    font-weight: bolder;
+    border-radius: 6px;
+  }
+
+  .main-title {
+    margin: 0;
+    padding: 10px;
+    font-size: 40px;
+  }
+
+  .task__modal {
+    z-index: 10000;
+    width: 300px;
+    height: 65px;
+    top: 100px;
+    left: 8px;
+
+    background-color: #fff;
+  }
+
+  .task-imp-modal {
+    height: 35px;
+    font-size: 14px;
+    margin-right: 5px;
+  }
+
+  button {
+    padding: 0.2em 0.4em;
+  }
+
+  .btn {
+    margin-right: 5px;
+    padding: 5px;
+  }
+
+  .btn2 {
+    font-size: 16px;
+    height: 41px;
+    padding: 5px;
+    margin-right: 5px;
+  }
+
+  .add {
+    padding: 15px;
+  }
+
+  .task__title {
+    min-width: 130px;
+    font-size: 16px;
+  }
+
+  .input__select-option {
+    text-align: center;
+    font-size: 10px;
+  }
+
+  .add-input {
+    font-size: 16px;
+    width: 200px;
+  }
+
+  .total-task {
+    font-size: 20px;
+  }
+
+  .total-task-done {
+    font-size: 15px;
+  }
+
+  .list {
+    padding-left: 10px;
+  } */
+}
